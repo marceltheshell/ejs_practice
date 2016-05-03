@@ -1,0 +1,12 @@
+{
+  "name": "ejs_practice",
+  "version": "1.0.0",
+  "description": "A quick review on making partials in a node.js app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
